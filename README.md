@@ -17,7 +17,7 @@ I’m a Data Engineer focused on building **scalable, production-grade data plat
 ## 🌍 Career Focus
 - Remote-first, international teams  
 - Scalable data platforms and modern analytics stacks  
-- Analytics- and ML-ready data architectures  
+- Analytics- and Modern Data Architecture
 
 ## 📫 Connect
 - LinkedIn: [linkedin.com/in/rodrigo-imamura](https://www.linkedin.com/in/rodrigo-imamura/)
