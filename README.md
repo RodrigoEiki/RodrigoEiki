@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I’m Rodrigo  
+## AWS Data Engineer | Cloud Data Platforms | Analytics
 
-<!--
-**RodrigoEiki/RodrigoEiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Data Engineer specialized in building **scalable, production-grade data pipelines on AWS**, helping teams turn raw data into reliable analytics and business insights.
 
-Here are some ideas to get you started:
+## 💼 What I do
+- Design and maintain cloud-native data platforms on AWS  
+- Build efficient ETL/ELT pipelines (batch & streaming)  
+- Model data for analytics and BI (star / layered architectures)  
+- Optimize performance, reliability, and cloud costs  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **AWS:** S3, Glue, Athena, Lambda, Step Functions  
+- **Data:** PySpark, SQL, dbt, Airflow / Dagster, Snowflake
+- **Other:** Docker, Git, CI/CD  
+
+## 🌍 Career Focus
+- Remote-first, international teams  
+- Data platforms at scale  
+- Analytics & Modern data architecture
+
+## 📫 Connect
+- LinkedIn: *[linkedin.com/in/rodrigo-imamura/](https://www.linkedin.com/in/rodrigo-imamura/)*
