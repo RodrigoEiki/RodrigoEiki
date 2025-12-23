@@ -1,13 +1,23 @@
 # 👋 Hi, I’m Rodrigo  
-## Data Engineer | AWS • dbt • Snowflake
+## AWS Data Engineer | Cloud Data Platforms | Analytics
 
-I’m a **Data Engineer building cloud-native data platforms on AWS**, with a strong focus on **dbt-driven transformations, data quality, and analytics modeling**, and currently **specializing in Snowflake-based analytics architectures**.
+I’m a Data Engineer focused on building **scalable, production-grade data platforms on AWS**, enabling reliable analytics, faster decision-making, and data-driven products.
 
-- AWS data platforms & ELT pipelines  
-- dbt models, tests, and data quality checks  
-- Analytics-ready datasets (star schema, marts)  
-- Performance, reliability, and cost-aware design  
+## 💼 What I Do
+- Design and operate cloud-native data architectures on AWS  
+- Build and optimize ETL/ELT pipelines
+- Model analytics-ready data (star schema, layered architectures)  
+- Improve performance, reliability, and cloud cost efficiency  
 
-**Tech:** AWS (S3, Glue, Athena, Lambda) • dbt • SQL • PySpark • Airflow/Dagster • Snowflake 
+## 🛠 Tech Stack
+- **AWS:** S3, Glue, Athena, Lambda, Step Functions  
+- **Data:** PySpark, SQL, dbt, Airflow / Dagster, Snowflake  
+- **Platform:** Docker, Git, CI/CD  
 
-📫 [linkedin.com/in/rodrigo-imamura](https://www.linkedin.com/in/rodrigo-imamura/)
+## 🌍 Career Focus
+- Remote-first, international teams  
+- Scalable data platforms and modern analytics stacks  
+- Analytics- and Modern Data Architecture
+
+## 📫 Connect
+- LinkedIn: [linkedin.com/in/rodrigo-imamura](https://www.linkedin.com/in/rodrigo-imamura/)
