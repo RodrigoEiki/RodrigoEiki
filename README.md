@@ -1,23 +1,23 @@
 # 👋 Hi, I’m Rodrigo  
 ## AWS Data Engineer | Cloud Data Platforms | Analytics
 
-I’m a Data Engineer specialized in building **scalable, production-grade data pipelines on AWS**, helping teams turn raw data into reliable analytics and business insights.
+I’m a Data Engineer focused on building **scalable, production-grade data platforms on AWS**, enabling reliable analytics, faster decision-making, and data-driven products.
 
-## 💼 What I do
-- Design and maintain cloud-native data platforms on AWS  
-- Build efficient ETL/ELT pipelines (batch & streaming)  
-- Model data for analytics and BI (star / layered architectures)  
-- Optimize performance, reliability, and cloud costs  
+## 💼 What I Do
+- Design and operate cloud-native data architectures on AWS  
+- Build and optimize ETL/ELT pipelines (batch & streaming)  
+- Model analytics-ready data (star schema, layered architectures)  
+- Improve performance, reliability, and cloud cost efficiency  
 
 ## 🛠 Tech Stack
 - **AWS:** S3, Glue, Athena, Lambda, Step Functions  
-- **Data:** PySpark, SQL, dbt, Airflow / Dagster, Snowflake
-- **Other:** Docker, Git, CI/CD  
+- **Data:** PySpark, SQL, dbt, Airflow / Dagster, Snowflake  
+- **Platform:** Docker, Git, CI/CD  
 
 ## 🌍 Career Focus
 - Remote-first, international teams  
-- Data platforms at scale  
-- Analytics & Modern data architecture
+- Scalable data platforms and modern analytics stacks  
+- Analytics- and ML-ready data architectures  
 
 ## 📫 Connect
-- LinkedIn: *[linkedin.com/in/rodrigo-imamura/](https://www.linkedin.com/in/rodrigo-imamura/)*
+- LinkedIn: [linkedin.com/in/rodrigo-imamura](https://www.linkedin.com/in/rodrigo-imamura/)
